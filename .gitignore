@@ -139,7 +139,7 @@ vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 
 # Sequelize config
-config/config.js
+config
 
 # uploads (kalau ada)
 uploads/
